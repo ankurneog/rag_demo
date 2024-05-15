@@ -1,0 +1,10 @@
+bs4
+lxml
+sentence-transformers
+langchain
+langchain-experimental
+langchain-community
+faiss-cpu
+pdfplumber
+gradio
+sentence-transformers
