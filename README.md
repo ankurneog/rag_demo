@@ -12,7 +12,13 @@ The code is structured into 4 components :
 
 ## How to use 
 1. pip install -r requirements.txt
-2. streamlit run app.py
+2. Put relevant documents in data folder
+3. change app code to point to the appropiate path in the data folder
+4. streamlit run app.py
+
+## Notes
+1. Confluence links are removed for security reasons, you can use the confluence links of your organization to get it working with confluence data
+2. Disclaimer : This is still work in progress , so use with caution ;)
 
 ## Authors
 
